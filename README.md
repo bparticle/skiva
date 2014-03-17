@@ -1,5 +1,6 @@
 Skiva icon theme for Ubuntu
 ===========================
+![Skiva preview image](https://raw.githubusercontent.com/bparticle/skiva/master/skiva-preview.png "Skiva preview")
 
 **About**
 
