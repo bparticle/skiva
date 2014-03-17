@@ -21,3 +21,5 @@ Personal use is free. Please contact me for all other uses. Also see http://part
 Bruno Patyn
 bruno@particle-in-a-box.com
 http://particle-in-a-box.com
+
+![Skiva preview image](https://raw.githubusercontent.com/bparticle/skiva/master/skiva-preview-folders.png "Skiva preview")
