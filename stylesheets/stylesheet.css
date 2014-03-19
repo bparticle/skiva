@@ -57,10 +57,10 @@ body {
 }
 
 a {
-  color: #d5000d;
+  color: #0D9F81;
 }
 a:hover {
-  color: #c5000c;
+  color: #086351;
 }
 
 header {
@@ -253,11 +253,11 @@ h2 {
 } 
 
 h3 {
-  color: #d5000d;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: bold;
   margin-bottom: 8px;
-} 
+  clear: left;
+}
  
 h4 {
   font-size: 16px;
@@ -337,6 +337,15 @@ footer a:hover {
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
+
+/* Custom Theming
+================================================== */
+div#icon-list ul li {
+  float: left;
+}
+div#icon-list ul  {
+  clear: both;
+}
 
 /* #Media Queries
 ================================================== */
