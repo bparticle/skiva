@@ -10,7 +10,7 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <title>Skiva by bparticle</title>
+    <title>Skiva audacious icon</title>
   </head>
 
   <body>
@@ -18,7 +18,7 @@
       <div class="inner">
 
         <header>
-          <h1><img src="/skiva/images/title.png" /></h1>
+          <h1><a href="http://bparticle.github.io/skiva/"><img src="/skiva/images/title.png" /></a></h1>
           <h2>Skiva is a colorful and circular icon theme for Ubuntu</h2>
         </header>
 
@@ -32,22 +32,9 @@
 
         <section id="main_content">
 
-
           <p style="text-align:center;">
-            <img src="/skiva/images/skiva-preview.png" />
+            <img src="https://raw.githubusercontent.com/bparticle/skiva/master/256x256/{$folder}/{$name}.png" />
           </p>
-          <p><h2>About</h2></p>
-          <p>Skiva is a circle based icon theme designed for the GNOME 3 desktop on Ubuntu, but they can be used on any debian based desktop environment. It is a <strong>work in progress</strong> that so far consists of the main Ubuntu folder icons and 19 application icons, but icons are added frequently. I decided to share this personal project with the community in order to get some feedback and encouragement for further development. Inspiration I have drawn from Malyss' Uniblack theme you can find here <a href="http://malysss.deviantart.com/art/malys-uniblack-update-11-09-2012-301085946">http://malysss.deviantart.com/art/malys-uniblack-update-11-09-2012-301085946</a>. Uniblack is a wonderful icon theme, but I found the application icons hard to use due to their uniformity in color and style. </p>
-          <p>Skiva is a project that aims to bring a comprehensive circle based icon theme with color and character to the Ubuntu desktop and beyond.</p>
-          <p><h2>Installation</h2></p>
-          <p>On Ubuntu install it by extracting the zip file or cloning the repository in ~/.local/share/icons/, or in /usr/share/icons/</p>
-
-          <p><h2>Legal notice</h2></p>
-          <p>Personal use is free. Please contact me for all other uses. Also see <a href="http://particle-in-a-box.com/blog-post/skiva-icon-theme">http://particle-in-a-box.com</a></p>
-          <p><h2>Author</h2></p>
-          <p>Bruno Patyn<br>
-          bruno (at) particle-in-a-box.com<br>
-          <a href="http://particle-in-a-box.com/blog-post/skiva-icon-theme">http://particle-in-a-box.com/</a></p>
           <p><h2>Supported icons</h2></p>
           <p>
             <div id="icon-list">
@@ -69,7 +56,7 @@
               </ul>
             <h3>Apps</h3>
             <ul id="apps">
-              <li><a href="/skiva/icon-pages/apps/audacious.php">audacious</a></li>
+              <li><a href="audacious.php">audacious</a></li>
               <li><a href="/skiva/icon-pages/apps/blender.php">blender</a></li>
               <li><a href="/skiva/icon-pages/apps/chrome.php">chrome</a></li>
               <li><a href="/skiva/icon-pages/apps/eog.php">eog</a></li>
@@ -92,10 +79,6 @@
             </ul>
             </div>
             <div style="clear:both;"></div>
-          </p>
-          <p style="text-align:center;">
-
-            <img src="images/skiva-preview-folders.png" />
           </p>
           <div id="disqus_thread"></div>
           <script type="text/javascript">
