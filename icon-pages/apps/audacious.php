@@ -4,10 +4,10 @@
 require('/usr/local/lib/php/Smarty/Smarty.class.php');
 $smarty = new Smarty();
 
-$smarty->setTemplateDir('/skiva/smarty/templates');
-$smarty->setCompileDir('/skiva/smarty/templates_c');
-$smarty->setCacheDir('/skiva/smarty/cache');
-$smarty->setConfigDir('/skiva/smarty/configs');
+$smarty->setTemplateDir('../../smarty/templates');
+$smarty->setCompileDir('../../smarty/templates_c');
+$smarty->setCacheDir('../../smarty/cache');
+$smarty->setConfigDir('../../smarty/configs');
 
 // get php script filename
 $file = pathinfo( __FILE__ );
