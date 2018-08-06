@@ -1,6 +1,6 @@
 Skiva icon theme for Ubuntu
 ===========================
-![Skiva preview image](https://raw.githubusercontent.com/bparticle/skiva/master/skiva-preview.png "Skiva preview")
+![Skiva preview image](https://raw.githubusercontent.com/bparticle/skiva/master/skiva-preview-folders.png "Skiva preview")
 
 **About**
 
@@ -22,4 +22,4 @@ Bruno Patyn
 bruno@particle-in-a-box.com
 http://particle-in-a-box.com
 
-![Skiva preview image](https://raw.githubusercontent.com/bparticle/skiva/master/skiva-preview-folders.png "Skiva preview")
+![Skiva preview image](https://raw.githubusercontent.com/bparticle/skiva/master/skiva-preview.png "Skiva preview")
